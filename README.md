@@ -9,7 +9,7 @@ Trained to generate human-like names by learning character patterns.
 - Implements bigram and neural network approaches
 
 ## Built with
-Python, PyTorch
+Python, PyTorch.
 
 ## Status
 Work in progress — actively improving the model
